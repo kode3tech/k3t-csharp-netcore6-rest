@@ -3,14 +3,14 @@ kind: Template
 metadata:
   name: k3t-csharp-netcore6-rest
   title: C# Dotnet Core 6 Rest API
-  description: 
+  description: Cria um microserviço com exposição Rest usando C# (C Sharp) e Dotnet Core framework 6
   tags:
     - cshap
     - events
     - netcore 6
     - api
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: service
   parameters:
     - title: Provide some simple information
